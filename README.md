@@ -1,6 +1,6 @@
 ###  Quantum & AI researcher working on Healthcare & Financial ML
 
-- :briefcase: Data Science Intern at Tekurai Inc. • Graduate Teaching Assistant (CIS 9340), Baruch College.
+- :briefcase: Data Science Intern at Tekurai Inc.
 - :mortar_board: Prospective PhD; focus on optimization for reliable & efficient ML (QAOA/VQE), privacy/robustness, and clinical & financial NLP. [[Curriculum Vitae]](https://rahatulashakin.github.io/files/Rahatul_Ashakin_CV.pdf)
 - :computer: Current projects: FinBERT + Quantum Optimization (QAOA/VQE), Hybrid QML for IBD + ESM mapping, Tamper-resistant LLMs.
 
