@@ -14,4 +14,4 @@
 - `2023` IOT-Based Smart Agriculture in Bangladesh: An Overview — Applied Agriculture Sciences. [[Publisher]](https://publishing.emanresearch.org/Journal/Abstract/agriculture-119563) [[DOI]](https://doi.org/10.25163/agriculture.119563)
 
 # I can be reached at
-[LinkedIn](https://www.linkedin.com/in/rahatul-ashakin/) • [Google Scholar](https://scholar.google.com/citations?user=SIS3K3sAAAAJ) • [Website](https://rahatulashakin.github.io) • [Email](mailto:ashakin.rahatul@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rahatul-ashakin/) • [Email](mailto:ashakin.rahatul@gmail.com)
