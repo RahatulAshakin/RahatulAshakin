@@ -6,12 +6,18 @@
 
 [[Google Scholar]](https://scholar.google.com/citations?user=SIS3K3sAAAAJ) • [[Website]](https://rahatulashakin.github.io)
 
-# Selected Publications
-- `05.15.2025` [Variational Quantum Circuits for Molecular Classification Using Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/11000219). (QCNC 2025)
-- `06.25.2025` [Quantum Variational Transformer Model for Enhanced Cancer Classification](https://ebooks.iospress.nl/doi/10.3233/ATDE250557). (IEAI 2025)
-- `2025` [Adaptive Multimodal AI with Liquid Neural Network for Edge Computing-Based AR](https://ebooks.iospress.nl/doi/10.3233/ATDE250512). (IEAI 2025)
-- `2024` [Transforming to Smart Healthcare: AI Innovations for Improving Affordability, Efficiency, and Accessibility](https://pathfinderpub.com/index.php/pathfinder-of-research/article/view/21/14), Pathfinder of Research.
-- `2023` [IOT-Based Smart Agriculture in Bangladesh: An Overview](https://publishing.emanresearch.org/Journal/Abstract/agriculture-119563), Applied Agriculture Sciences.
+## Selected Publications
+
+- `2026` **Book chapter (forthcoming).** “Current Tools and Techniques of Artificial Intelligence in Healthcare.” In *Quantum Computing in Medicine: Transforming Drug Discovery, Protein Folding, and Genomics Research through AI Integration* (Elsevier). [Book page](https://shop.elsevier.com/books/quantum-computing-in-medicine/roosan/978-0-443-34193-9)
+
+- `2025-05-15` “Variational Quantum Circuits for Molecular Classification Using Graph Neural Network.” In *QCNC 2025 (IEEE)*. [DOI: 10.1109/QCNC64685.2025.00074](https://doi.org/10.1109/QCNC64685.2025.00074)
+
+- `2025-06-25` “Quantum Variational Transformer Model for Enhanced Cancer Classification.” In *IEAI 2025, IOS Press (ATDE)*. [DOI: 10.3233/ATDE250557](https://ebooks.iospress.nl/doi/10.3233/ATDE250557)
+
+- `2025` “Adaptive Multimodal AI with Liquid Neural Network for Edge Computing-Based AR.” In *IEAI 2025, IOS Press (ATDE)*. [DOI: 10.3233/ATDE250512](https://ebooks.iospress.nl/doi/10.3233/ATDE250512)
+
+- `to appear 2025-12-28` “Quantum AI Enhanced Blockchain Security for Drug Discovery.” In *Proceedings of ICIAI 2025 (Springer LNEE)*. [Proceedings page](https://link.springer.com/book/9789819508860)
+
 
 # I can be reached at
 [LinkedIn](https://www.linkedin.com/in/rahatul-ashakin/) • [Email](mailto:ashakin.rahatul@gmail.com)
