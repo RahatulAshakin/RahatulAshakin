@@ -4,13 +4,13 @@
 - :mortar_board: Prospective PhD; focus on Optimization for large models; robustness & privacy; biomedical (multi-omics) and clinical/financial AI; hardware-aware deployment across cloud/GPU, edge/IoT, and near-term quantum backends. [[Curriculum Vitae]](https://rahatulashakin.github.io/files/Rahatul_Ashakin_CV.pdf)
 - :computer: Current projects:
 
-# **IBD-Quantum-ESM (IBD multi-omics + ESM embeddings)**: Hybrid classical/quantum pipeline for IBD phenotyping (leakage-aware evaluation, reproducible CLI + artifacts); exploring quantum kernels (QSVC/QuantumKernel) alongside strong classical baselines.
+• **IBD-Quantum-ESM (IBD multi-omics + ESM embeddings)**: Hybrid classical/quantum pipeline for IBD phenotyping (leakage-aware evaluation, reproducible CLI + artifacts); exploring quantum kernels (QSVC/QuantumKernel) alongside strong classical baselines.
 
-# **CRISPR → Gene Regulation “Digital Twin” (RNA-seq + ATAC-seq + dependency screens)**: Interpretable gene regulation / GRN inference using quantum-inspired tensor networks (MPS), enabling in-silico perturbations and candidate prioritization for functional genomics follow-up.
+• **CRISPR → Gene Regulation “Digital Twin” (RNA-seq + ATAC-seq + dependency screens)**: Interpretable gene regulation / GRN inference using quantum-inspired tensor networks (MPS), enabling in-silico perturbations and candidate prioritization for functional genomics follow-up.
 
-# **Tamper-resistant BioAI foundation models**: Integrity monitoring and defenses against adversarial fine-tuning / poisoning for scientific and biomedical LLM workflows; focus on reliability and safe deployment.
+• **Tamper-resistant BioAI foundation models**: Integrity monitoring and defenses against adversarial fine-tuning / poisoning for scientific and biomedical LLM workflows; focus on reliability and safe deployment.
 
-# **Quantum-guided transformer optimization (QAOA/VQE)**: QAOA/VQE-assisted hyperparameter optimization and benchmarking for transformer pipelines (validated on FinBERT as a controlled benchmark; extending the workflow to biomedical NLP and omics-focused models).
+• **Quantum-guided transformer optimization (QAOA/VQE)**: QAOA/VQE-assisted hyperparameter optimization and benchmarking for transformer pipelines (validated on FinBERT as a controlled benchmark; extending the workflow to biomedical NLP and omics-focused models).
 
 
 [[Google Scholar]](https://scholar.google.com/citations?user=SIS3K3sAAAAJ) • [[Website]](https://rahatulashakin.github.io)
