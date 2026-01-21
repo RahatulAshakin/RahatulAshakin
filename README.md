@@ -25,7 +25,7 @@
 
 - `2025` “Adaptive Multimodal AI with Liquid Neural Network for Edge Computing-Based AR.” In *IEAI 2025, IOS Press (ATDE)*. [DOI: 10.3233/ATDE250512](https://ebooks.iospress.nl/doi/10.3233/ATDE250512)
 
-- `to appear 2025-12-28` “Quantum AI Enhanced Blockchain Security for Drug Discovery.” In *ICIAI 2025 (Springer Nature Link (LNEE, Volume 1458)*. [DOI: 10.1007/978-981-95-0887-7_1]([https://link.springer.com/book/9789819508860](https://link.springer.com/chapter/10.1007/978-981-95-0887-7_1))
+- `to appear 2025-12-28` “Quantum AI Enhanced Blockchain Security for Drug Discovery.” In *ICIAI 2025 (Springer Nature Link (LNEE, Volume 1458)*. [DOI: 10.1007/978-981-95-0887-7_1](https://link.springer.com/chapter/10.1007/978-981-95-0887-7_1)
 
 
 # I can be reached at
