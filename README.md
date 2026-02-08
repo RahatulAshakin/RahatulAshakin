@@ -17,7 +17,8 @@
 
 ## Selected Publications
 
-- `2026` **Book chapter (forthcoming).** “Current Tools and Techniques of Artificial Intelligence in Healthcare.” In *Quantum Computing in Medicine: Transforming Drug Discovery, Protein Folding, and Genomics Research through AI Integration* (Elsevier). [Book page](https://shop.elsevier.com/books/quantum-computing-in-medicine/roosan/978-0-443-34193-9)
+- `2026` **Book chapter.** “Current Tools and Techniques of Artificial Intelligence in Healthcare.” In *Quantum Computing in Medicine: Transforming Drug Discovery, Protein Folding, and Genomics Research through AI Integration* (Elsevier).  
+  [ScienceDirect](https://www.sciencedirect.com/science/chapter/pii/B9780443341939000077) · [Book page](https://shop.elsevier.com/books/quantum-computing-in-medicine/roosan/978-0-443-34193-9)
 
 - `2025-05-15` “Variational Quantum Circuits for Molecular Classification Using Graph Neural Network.” In *QCNC 2025 (IEEE)*. [DOI: 10.1109/QCNC64685.2025.00074](https://doi.org/10.1109/QCNC64685.2025.00074)
 
