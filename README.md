@@ -1,6 +1,5 @@
 ###  Quantum & AI researcher working on Healthcare & Financial ML
 
-- :briefcase: Associate Researcher, Merrimack College, North Andover, Massachusetts.
 - :mortar_board: Prospective PhD; focus on Optimization for large models; robustness & privacy; biomedical (multi-omics) and clinical/financial AI; hardware-aware deployment across cloud/GPU, edge/IoT, and near-term quantum backends. [[Curriculum Vitae]](https://rahatulashakin.github.io/files/Rahatul_Ashakin_CV.pdf)
 - :computer: Current projects:
 
